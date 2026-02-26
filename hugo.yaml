@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Gamelab Documentation
+title: CodeBox
 
 # import hextra as module
 module:
@@ -24,8 +24,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Demo ↗
+      url: "https://app.codebox.com.co"
       weight: 3
     - name: Search
       weight: 4
@@ -48,4 +48,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/benjameep/gamelab-docs/edit/main/content"
+    base: "https://github.com/benjameep/codebox-docs/edit/main/content"

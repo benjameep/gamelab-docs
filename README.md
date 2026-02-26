@@ -1,4 +1,4 @@
-# Gamelab Docs
+# CodeBox Docs
 
 
 ## Local Development
@@ -7,10 +7,10 @@ Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/), [Go](http
 
 ```shell
 # Clone the repo
-git clone https://github.com/benjameep/gamelab-docs.git
+git clone https://github.com/benjameep/codebox-docs.git
 
 # Change directory
-cd gamelab-docs
+cd codebox-docs
 
 # Start the server
 hugo mod tidy
