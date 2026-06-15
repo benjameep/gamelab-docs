@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: CodeBox
+title: Bonk!
 
 # import hextra as module
 module:
@@ -25,7 +25,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Demo ↗
-      url: "https://app.codebox.com.co"
+      url: "https://app.bonkcode.com"
       weight: 3
     - name: Search
       weight: 4
